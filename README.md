@@ -3,7 +3,7 @@
 Displaying the typing speed (char per minute) on the right bottom of the statusline.\
 Just for fun !!
 
-<img src="/user-images.githubusercontent.com/46821139/146185976-a241e452-7964-46c8-a4ac-9c3b3c5919ca.gif" width="250" height="250"/>
+<img src="/image/animate.gif" width="500" height="auto"/>
 
 ![animate]( | width=600 )
 
