@@ -33,5 +33,5 @@ if !exists("s:localstl")
   let s:localstl = &stl
 endif
 
-let &stl = &s:localstl . " %{GetCount_per_min()}c/m"
+let &stl = s:localstl . " %{GetCount_per_min()}c/m"
 
