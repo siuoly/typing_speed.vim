@@ -5,8 +5,6 @@ Just for fun !!
 
 <img src="/image/animate.gif" width="500" height="auto"/>
 
-![animate]( | width=600 )
-
 ## install
 vim-plug
 ```
