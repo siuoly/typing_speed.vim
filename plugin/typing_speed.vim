@@ -4,6 +4,7 @@ endif
 let g:typing_speed = 1
 
 let s:input_count = 0.0
+" fix the bug about " count - / (localtime()-localtime())" is inf 
 let s:start_time = localtime()-1
 
 
